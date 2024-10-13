@@ -1,0 +1,254 @@
+{
+  "code": 0,
+  "message": "0",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1v3411P7kY",
+    "aid": 426276185,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/95348d0310912f878d686ac4a792bf7b7a823c89.jpg",
+    "title": "【GT7】法拉利FXX K '14鉴赏",
+    "pubdate": 1651977936,
+    "ctime": 1651977937,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 270,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 30029819,
+      "name": "阿克斯X",
+      "face": "https://i2.hdslb.com/bfs/face/31f5e72ab540ba41cf9a2da5f066623f00e190fa.jpg"
+    },
+    "stat": {
+      "aid": 426276185,
+      "view": 488,
+      "danmaku": 1,
+      "reply": 13,
+      "favorite": 3,
+      "coin": 2,
+      "share": 5,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 12,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1019053919,
+    "dimension": {
+      "width": 3840,
+      "height": 2160,
+      "rotate": 0
+    },
+    "season_id": 957895,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1019053919,
+        "page": 1,
+        "from": "vupload",
+        "part": "【GT7】法拉利FXX K '14鉴赏",
+        "duration": 270,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230221a21doq8jsx6l33n2ebiqdhxtb_firsti.jpg"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": true,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 957895,
+      "title": "GT7合集",
+      "cover": "https://archive.biliimg.com/bfs/archive/25b92a1a53d2392972ca48e357f5ebdfe0f399bd.jpg",
+      "mid": 30029819,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "sections": [
+        {
+          "season_id": 957895,
+          "id": 1106752,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 957895,
+              "section_id": 1106752,
+              "id": 18149140,
+              "aid": 606666581,
+              "cid": 935081860,
+              "title": "【GT7】Ferrari VGT鉴赏",
+              "attribute": 0,
+              "arc": {
+                "aid": 606666581,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/25b92a1a53d2392972ca48e357f5ebdfe0f399bd.jpg",
+                "title": "【GT7】Ferrari VGT鉴赏",
+                "pubdate": 1671886325,
+                "ctime": 1671886325,
+                "desc": "",
+                "state": 0,
+                "duration": 334,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 0,
+                  "name": "",
+                  "face": ""
+                },
+                "stat": {
+                  "aid": 606666581,
+                  "view": 4513,
+                  "danmaku": 0,
+                  "reply": 8,
+                  "fav": 100,
+                  "coin": 10,
+                  "share": 9,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 103,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 3830,
+                  "vv": 4513
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": ""
+              },
+              "page": {
+                "cid": 935081860,
+                "page": 1,
+                "from": "vupload",
+                "part": "【GT7】Ferrari VGT鉴赏",
+                "duration": 334,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1v84y1s7Gh",
+              "pages": [
+                {
+                  "cid": 935081860,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【GT7】Ferrari VGT鉴赏",
+                  "duration": 334,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "stat": {
+        "season_id": 957895,
+        "view": 301256,
+        "danmaku": 132,
+        "reply": 1611,
+        "fav": 3753,
+        "coin": 490,
+        "share": 286,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 5879,
+        "vt": 0,
+        "vv": 0
+      },
+      "ep_count": 353,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}
