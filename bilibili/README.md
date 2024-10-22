@@ -15,3 +15,14 @@ https://mholt.github.io/json-to-go/
 
 omitempty 取消勾选 
 用在go语言结构体struct标签中，跟在字段名称后面，如果字段值为：0、nil、false，则此字段在转换为json格式时，会没有此字段。
+
+
+rust 的相似度软件
+使用openai 进行翻译转换
+想速度用mivius吗
+
+rising wave的b站能不能看看
+还有deepflow和cillum和那个p开头的
+
+ebpf抓包
+闲 鱼sign
