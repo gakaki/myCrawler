@@ -31,7 +31,16 @@ func TestDownload2Markdown(t *testing.T) {
 		// 08d82a5dc49e0b5bc7da59097d09ae71
 		// 写作中和 online的问题 哪些是已经完毕的
 		Sessionid: "a258660accf75316e81d3ef1d00ac8eb",
-		BookIDs: []string{
+		BookIDs:   []string{
+
+			//"7399064580883742774", //系统掌握大语言模型提示词 - 从理论到实践
+			//"7351005935306801188", //如何写出高质量的前端代码
+			//"7408937821752262665", //Node.js 工具链通关秘籍
+			//"7307859898316881957", //Next.js 开发指南
+
+			//"7137945369635192836", //SSR 实战：官网开发指南
+			//"7137945369635192836", //SSR 实战：官网开发指南
+
 			//"7137945369635192836", //SSR 实战：官网开发指南
 			//vue3低代码 https://search.bilibili.com/all?vt=20349389&keyword=vue3%20%E4%BD%8E%E4%BB%A3%E7%A0%81&from_source=webtop_search&spm_id_from=333.999&search_source=5
 			//"7146465352120008743", //vue3技术揭秘 https://space.bilibili.com/355783263
@@ -59,7 +68,6 @@ func TestDownload2Markdown(t *testing.T) {
 			//"7351709145294176282", //扣子：Al Bots 通关指南,
 			//"7350616366405124130", // Java 企业级项目核心技术精讲
 			//"6844733794801418253", //给开发者的底层原理课
-			"7307859898316881957", //Next.js 开发指南
 			//"7372468023183343628", //Coze 从入门到实践：全面掌握 AI 智能体
 
 			//flutter系列
